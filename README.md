@@ -1,37 +1,43 @@
+
 # React + Tailwind = Spotify Clone
 
-React + Tailwind serisinin bu bölümünde spotify'ın web versiyonunu birlikte kodluyoruz.
+In this React + Tailwind series, we will be building the web version of Spotify together.
 
-1. bölümde öğrenecekleriniz
-    - React ve tailwind kurulumu
-    - React Router kurulumu
-    - Temel componentlerin oluşturulması
-    - Mevcut sayfalar için view'ların oluşturulması
-    - SVG iconların oluşturulması
-    - `<Sidebar />` componentinin kodlanması
+### What you will learn in part 1:
+   - Setting up React and Tailwind
+   - Installing React Router
+   - Creating basic components
+   - Creating views for existing pages
+   - Creating SVG icons
+   - Coding the `<Sidebar />` component
 
-2. bölümde öğrenecekleriniz
-   - `<Navbar />` ve `<Home />` componentlerinin kodlanması
-   - `tailwind` için `line-clamp` eklentisi kullanımı
-   - Accessibility için `headlessui` kullanımı
-   - `react-router` hookları
-3. bölümde öğrenecekleriniz
-   - `<Player />` componentinin kodlanması
-   - Ses dosyalarını yönetmek için `react-use` paketinin kullanımı
-   - Player range slider için `react-range` paketinin kullanımı
-   - State'leri global olarak yönetmek için `redux` kullanımı
-4. bölümde öğrenecekleriniz
-   - Search bölümünü kodluyoruz
-   - Drag scrollbar paketini kurup ufak bir carousel hazırlıyoruz
-   - Bolca tailwind kullanıyoruz :)
-5. bölümde öğrenecekleriniz
-   - Full Screen Player yönetimi
-   - Full Screen'e özel hook'un kullanımı
-   - Bolca tailwind :)
-6. bölüm hazırlanacak....
+### What you will learn in part 2:
+   - Coding the `<Navbar />` and `<Home />` components
+   - Using the `line-clamp` plugin for Tailwind
+   - Using `headlessui` for accessibility
+   - React Router hooks
+
+### What you will learn in part 3:
+   - Coding the `<Player />` component
+   - Using the `react-use` package to manage audio files
+   - Using the `react-range` package for the player range slider
+   - Managing state globally with Redux
+
+### What you will learn in part 4:
+   - Coding the Search section
+   - Installing and using a drag scrollbar package to create a small carousel
+   - Using Tailwind extensively :)
+
+### What you will learn in part 5:
+   - Full-Screen Player management
+   - Using a custom hook for Full-Screen mode
+   - Using Tailwind extensively :)
+
+### Part 6 is coming soon....
 
 ## Demo
 
-Şu ana kadar yapılmış son halinin demosu
+The demo of the most recent version we've built so far.
+
 
 [https://react-tailwind-spotify-demo.netlify.app/](https://react-tailwind-spotify-demo.netlify.app/)
