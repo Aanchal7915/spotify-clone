@@ -33,11 +33,3 @@ In this React + Tailwind series, we will be building the web version of Spotify 
    - Using a custom hook for Full-Screen mode
    - Using Tailwind extensively :)
 
-### Part 6 is coming soon....
-
-## Demo
-
-The demo of the most recent version we've built so far.
-
-
-[https://react-tailwind-spotify-demo.netlify.app/](https://react-tailwind-spotify-demo.netlify.app/)
